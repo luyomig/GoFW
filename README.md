@@ -7,7 +7,8 @@
 
 [在 Chrome WebStore 下载](https://chrome.google.com/webstore/detail/%E5%8A%A0%E9%80%9F%E5%99%A8/hgifnmdnlmhphhpfhpaoljpakcndhnhj)
 
-[直接下载 CRX 文件](http://s.xmcp.ml/gofw/latest.crx)
+[直接下载 CRX 文件](http://s.xmcp.ml/gofw/latest.crx)  
+Chrome67以后的版本需要用到“chrome 插件伴侣”来安装这个CRX文件
 
 **（本扩展程序不是翻墙软件，不要指望能使用本程序上 Youtube）**
 
